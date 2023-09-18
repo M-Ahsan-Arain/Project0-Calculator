@@ -2,6 +2,10 @@
 
 Welcome to Ahsan's CLI Calculator, a Node.js project developed with TypeScript that allows you to perform basic arithmetic calculations in your terminal.
 
+## Prerequisites
+
+Before using this CLI calculator, ensure that you have Node.js installed on your system. You can download and install Node.js from the [official website](https://nodejs.org/).
+
 ## Installation
 
 To use this CLI calculator, you can install it as an npm package using the following command:
