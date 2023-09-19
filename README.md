@@ -48,10 +48,10 @@ To install the development dependencies, you can run:
 
 
 ```bash
-npm i @types/chalk
-npm i @types/chalk-animation
-npm i @types/inquirer
-npm i @types/node
+npm i @types/chalk -D
+npm i @types/chalk-animation -D
+npm i @types/inquirer -D
+npm i @types/node -D
 ```
 ## Dependencies
 chalk
